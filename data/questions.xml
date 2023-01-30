@@ -1,0 +1,69 @@
+<questions>
+  <question sec="10" points="4">
+    <text>Чему равен x? x^3 = -8</text>
+    <variants>
+      <variant>1</variant>
+      <variant>2</variant>
+      <variant right="true">-2</variant>
+      <variant>4</variant>
+    </variants>
+  </question>
+
+  <question sec="15" points="1">
+    <text>Cos(0) = ?</text>
+    <variants>
+      <variant>0</variant>
+      <variant>0.5</variant>
+      <variant right="true">1</variant>
+    </variants>
+  </question>
+
+  <question sec="10" points="1">
+    <text>sin(Pi/2) = ?</text>
+    <variants>
+      <variant>0</variant>
+      <variant>0.5</variant>
+      <variant right="true">1</variant>
+    </variants>
+  </question>
+
+  <question sec="10" points="5">
+    <text>В каком году началась первая мировая война?</text>
+    <variants>
+      <variant>1917</variant>
+      <variant>1939</variant>
+      <variant right="true">1914</variant>
+      <variant>1915</variant>
+    </variants>
+  </question>
+
+  <question sec="10" points="4">
+    <text>Высота эйфелевой башни?</text>
+    <variants>
+      <variant>250</variant>
+      <variant>330</variant>
+      <variant right="true">300</variant>
+      <variant>200</variant>
+    </variants>
+  </question>
+
+  <question sec="10" points="5">
+    <text>В каком году умер Фидель Кастро?</text>
+    <variants>
+      <variant>2009</variant>
+      <variant>2015</variant>
+      <variant right="true">2016</variant>
+      <variant>2017</variant>
+    </variants>
+  </question>
+
+  <question sec="15" points="2">
+    <text>Сколько циркулей в ГУК МГТУ им Н. Э. Баумана?</text>
+    <variants>
+      <variant>1</variant>
+      <variant>3</variant>
+      <variant right="true">2</variant>
+      <variant>такого там нет</variant>
+    </variants>
+  </question>
+</questions>

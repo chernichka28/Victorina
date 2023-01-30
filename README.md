@@ -9,3 +9,5 @@ ruby main.rb
 Test your mind!
 
 To add new questions: go to `data/questions.xml` and create new questions.
+
+<sub>Educational project</sub>

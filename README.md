@@ -1,15 +1,12 @@
-# Victorina
-Simple victorina with different questions on Ruby 3.1.2
+# Викторина
+Простая викторина с вопросами из разных областей на Ruby 3.1.2
 
-Test your mind!
+## Использования
 
-## Using
-
-Run in your project folder:
+Для запуска выполните команду в папке проекта:
 ```
 ruby main.rb
 ```
+Для добавления вопросов: перейти в `data/questions.xml` и создать новые вопросы по образу старых.
 
-To add new questions: go to `data/questions.xml` and create new questions.
-
-<sub>Educational project</sub>
+<sub>Учебный проект</sub>
